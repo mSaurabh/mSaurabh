@@ -1,10 +1,13 @@
-## Hi there 👋
-
+## Hi there 👋, my name is Saurabh
+I am a software engineering professional who enjoys expanding my skills through various creative sources. 
+I update my GitHub profile as often as possible, and you can find those updates below:
 <!--
 **mSaurabh/mSaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+As of 5/21/2025:
+- AWS AI Cloud Practitioner certified.
 
 As of 10/15/2024:
 - 🔭 I’m currently working on Hacktoberfest Open Source contributions.
@@ -19,4 +22,6 @@ As of 10/15/2024:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Anime fanatic and love hiking 🥾 
 
-
+My Badges🥇 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
