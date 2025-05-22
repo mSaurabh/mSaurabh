@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: msaurabh/badge-readme@main
+        uses: msaurabh/readme@main
         with:       
           CREDLY_USER: saurabh-mankar.1bfc8e95 # optional, but default will use the same from github
