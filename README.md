@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 -->
 As of 5/21/2025:
 - AWS AI Cloud Practitioner certified.
+- ![aws-certified-ai-practitioner](https://github.com/user-attachments/assets/9acf8304-04c0-4565-8caa-f1ce7b37fb1d)
+
 
 As of 10/15/2024:
 - 🔭 I’m currently working on Hacktoberfest Open Source contributions.
